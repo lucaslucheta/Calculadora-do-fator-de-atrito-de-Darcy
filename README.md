@@ -9,7 +9,7 @@ Aplicação web interativa para cálculo do fator de atrito de Darcy pelo Diagra
 
 ---
 
-## INSTALACAO NO WINDOWS
+## INSTALAÇÃO NO WINDOWS
 1. Extraia a pasta/arquivo ZIP para um local de sua preferencia.
 2. Abra o Prompt de Comando (CMD) dentro da pasta extraida.
    Dica: no Explorador de Arquivos, entre na pasta, clique na barra de endereco,
@@ -19,7 +19,7 @@ Aplicação web interativa para cálculo do fator de atrito de Darcy pelo Diagra
 
 ---
 
-## EXECUCAO
+## EXECUÇÃO
 4. Execute:
    py -m streamlit run app.py
 5. O Streamlit abrira a aplicacao no navegador. Se nao abrir automaticamente,
@@ -49,13 +49,13 @@ Colebrook-White.
 
 ---
 
-## Notas de Desenvolvimento e Apoio Tecnológico
+## NOTAS DE DESENVOLVIMENTO E DE APOIO TECNOLÓGICO
 
-Este projeto foi concebido, estruturado e validado por **Lucas Reis Lucheta**. Durante o processo de desenvolvimento e programação da interface em Streamlit, foram utilizadas ferramentas de Inteligência Artificial (como o **Gemini**) como suporte técnico de mentoria, estruturação de código e boas práticas de desenvolvimento.
+Este projeto foi concebido, estruturado e validado por **Lucas Reis Lucheta**. Durante o processo de desenvolvimento e programação da interface em Streamlit, foram utilizadas ferramentas de Inteligência Artificial (como o **ChatGPT**) como suporte técnico de mentoria, estruturação de código e boas práticas de desenvolvimento.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 AUTOR
 
 Desenvolvido por **Lucas Reis Lucheta**  
 Estudante de Engenharia Química | EEL-USP  
