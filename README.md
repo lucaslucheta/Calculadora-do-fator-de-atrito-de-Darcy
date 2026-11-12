@@ -41,7 +41,7 @@ Aplicação web interativa para cálculo do fator de atrito de Darcy pelo Diagra
 
 ---
 
-## NOTA TECNICA
+## NOTA TÉCNICA
 A faixa 2300 <= Re <= 4000 e instavel. O app usa uma interpolacao suave como
 estimativa, nao como correlacao universal. O criterio de plena turbulencia
 considera o termo de Reynolds <= 1% do termo de rugosidade na equacao de
