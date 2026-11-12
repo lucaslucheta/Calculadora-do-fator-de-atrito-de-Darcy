@@ -19,7 +19,7 @@ Aplicação web interativa para cálculo do fator de atrito de Darcy pelo Diagra
 
 ---
 
-##EXECUCAO
+## EXECUCAO
 4. Execute:
    py -m streamlit run app.py
 5. O Streamlit abrira a aplicacao no navegador. Se nao abrir automaticamente,
